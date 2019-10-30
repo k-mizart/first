@@ -8,6 +8,10 @@ int main()
 	switch(age){
 	case 16:
 	case 333:
+		case 16:
+	
+		case 16:
+	
 	cout<<"you can"<<endl;	
 	break;
 	case 4444:
