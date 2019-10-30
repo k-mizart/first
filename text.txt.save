@@ -1,0 +1,23 @@
+Hello git.
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int age = 39;
+	switch(age){
+	case 16:
+	case 333:
+	cout<<"you can"<<endl;	
+	break;
+	case 4444:
+		cout<<"roket"<<endl;
+	break;
+	case 32:
+		cout<<"beer"<<endl;
+	break;
+	}
+
+
+	return 0;
+}
